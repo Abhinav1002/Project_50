@@ -1,101 +1,37 @@
-.head{
-      
-    background-color:white;
-    border:solid;
-     }
-  
-     .note{
-       background-color: red;
-       border: dotted;
-     }
-  
-  .grid {
-    background: darkred;
-    background-color: #F0F8FF;
+h1{
+    text-align: center;
+    color:navy;
+}
+h2{
+    text-align: center;
+    color: navy;
+}
+.header{
+    background-color: yellow;
     display: flex;
-    justify-content: last baseline;
-    flex-direction: row;
-    text-align: left;
-    flex-wrap: wrap;
-  }
-  
-  .camel {
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 500px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
-  
-  
-  .chameleon {
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 500px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
-  
-  .cicada {
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 400px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
-  
-  .panda {
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 400px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
-  
-  .pigeon {
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 500px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
-  
-  .teddy {
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 500px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
+    justify-content: center;
+}
+.description{
+    text-align: center;
+    background-color: aqua;
+}
+.others{
+    background-color: mediumspringgreen;
+}
+.Otitle{
+    text-align: center;
+    background-color: lime;
+}
+.item{
+    display: flex;
+    text-shadow: purple;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.matter{
+    background-color: khaki;
 
-  .youtube{
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 650px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
-
-  .instagram{
-    border: 1px solid black;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 200px;
-    height: 650px;
-    padding: 50px;
-    background-color:#E8E5E4;
-  }
+}
